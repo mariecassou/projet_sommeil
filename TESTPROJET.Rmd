@@ -1,0 +1,33 @@
+---
+author: "Marie Cassou & Fleur Leridon"
+date: "2025"
+output: 
+  pdf_document: default
+  word_document: default
+title: "Projet Statistiques" 
+subtitle: "Hygiène du sommeil et performances académiques"
+---
+
+# Préambule 
+*Nous déclarons sur l’honneur que ce mémoire a été écrit de notre main, sans aide extérieure non autorisée, qu’il n’a pas été présenté auparavant pour évaluation et qu’il n’a jamais été publié, dans sa totalité ou en partie.
+Toutes parties, groupes de mots ou idées, aussi limités soient-ils, y compris des tableaux, graphiques, cartes etc. qui sont empruntés ou qui font référence à d’autres sources bibliographiques sont présentés comme tels, sans exception aucune.*
+
+
+# Introduction
+
+Nous avons choisi de consacrer notre projet de Statistiques à un sujet qui nous concerne directement en tant qu'étudiantes : Le sommeil et ses effets sur la réussite académique.
+Les rythmes de vie universitaires, les révisions tardives, l'usage intensif des écrans ou encore la consommation de caféine modifient souvent la qualité du sommeil et la concentration. 
+
+L'idée est née d'un constat simple : autour de nous, chacun.e a ses routines et ses différents moments de travail. 
+Cette différence de rythme, qu'on appelle le chronotype, pourrait expliquer une partie des écarts de motivation ou de résultats.
+Nous avons donc souhaité explorer ce lien à travers des données concrètes recueillies auprès d'étudiant.e.s comme nous. 
+
+Notre objectif principal est de déterminer si le chronotype et l'hygiène de sommeil sont déterminant à la performance académique et à la concentration en cours. 
+Par conséquant, le chronotype et l’hygiène de sommeil sont-ils liés à la performance académique et à la motivation chez les étudiants ?
+
+Pour cela, nous avons conçu un questionnaire Google Forms diffusé auprès d'étudiants de différents niveaux (L1 - M2).
+Les réponses obtenues, anonymes et spontanées, constituent la base de donénes que nous analyserons dans ce projet.
+
+# I. Description des données 
+
+zzzzz
